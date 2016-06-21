@@ -1,5 +1,7 @@
 # Zombie Microservices Workshop: Lab Guide
 
+[![Join the chat at https://gitter.im/mikelduffy/aws-lambda-zombie-workshop](https://badges.gitter.im/mikelduffy/aws-lambda-zombie-workshop.svg)](https://gitter.im/mikelduffy/aws-lambda-zombie-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Overview
 The [Zombie Microservices Workshop](http://aws.amazon.com/events/zombie-microservices-roadshow/) introduces the basics of building serverless applications using [AWS Lambda](http://aws.amazon.com/lambda/), Amazon API Gateway, Amazon DynamoDB, and other AWS services. This workshop has several lab exercises that you can complete to extend the functionality of the base chat app that is provided when you launch the CloudFormation template provided.
 
